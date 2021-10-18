@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Virtual Care",
+		"short": "Lifebridge Medical patients have access to virtual appointments for quick and convenient care.",
+		"details": "Lifebridge Medical patient, we offer on-demand video visits for minor health conditions such as rashes, colds, urinary tract infections and more. A medical professional will see you promptly and provide exceptional care, including guidance on next steps. You can call your physician or use My CS-Link to set up your visit. Video visits are on Zoom and work best on our mobile app (available in the Apple App Store or Google Play).Our video visits are compliant with all health privacy laws.",
+		"img": "https://i.ibb.co/zNknGWh/vartualcare.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Eye care",
+		"short": "Lifebridge Medical provide a range of medical eye care, from complete exams and contact lens fittings to comprehensive medical and surgical eye care",
+		"details": "Clinical and Surgical ServicesOur highly skilled physicians are renowned for diagnosing and treating the most challenging eye-related cases, offering dedicated ophthalmology operating rooms, 24/7 emergency room access and ocular subspecialty coverage in the emergency room. Houston Methodist is known for its on-site clinical outpatient evaluation and treatment facilities. On-site surgical suites are equipped with the most advanced technology, which allows our team of dedicated and multidisciplinary physicians to treat even the most complex cases.",
+		"img": "https://i.ibb.co/wK6MyPc/eye-care.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Orthopedics & Sports Medicine",
+		"short": "We offer a complete 360-degree service offering for all sports medicine conditions. Our outstanding staff and advanced technology ensure quality care for you.",
+		"details": "If you experience an orthopedic injury or have a musculoskeletal condition that is limiting your mobility or quality of life, our vast team of orthopedic specialists and surgeons, including sports medicine physicians, will help diagnose your problem and find the most appropriate and effective treatment to get you back to your normal activities.Which orthopedic conditions are treated at Miami Orthopedics & Sports Medicine Institute?Our team treats simple fractures of bones to complex injuries and conditions involving bones, joints, muscles and other soft musculoskeletal tissue from your neck to your toes, including your spine, shoulders, arms, elbows, wrists and hands. Our highly skilled orthopedic surgeons, physician assistants and athletic trainers work together to treat:",
+		"img": "https://i.ibb.co/hdJLqP7/Orthopedics-Sports-Medicine.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Cancer Care",
+		"short": "You make us Better And because of you, we are able to provide Better care for cancer.",
+		"details": "Cancer Hates Pioneers We provide warriors with an arsenal of tools to defeat cancer—including immunotherapies that re-engineer your existing cells, giving your body the power to fight cancer from the inside. Its no wonder cancer hates us, and we intend to keep it that way.Advancing cancer care with personalized CAR-T cell therapyPioneering research and treatment in immunotherapies, Baylor University Medical Center was the first North Texas providers to offer adult commercial use of chimeric antigen receptor T-cell therapy, or CAR-T, to treat patients with large B-cell lymphoma and acute lymphoblastic leukemia. ",
+		"img": "https://i.ibb.co/qdypfTX/Cancer-Care.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Surgical Services",
+		"short": "Lifebridge Medical provide a full spectrum of general and specialty surgery services.",
+		"details": "There are many specialty areas for surgery available at Baylor Dallas.Physicians on the medical staff at Baylor Dallas are trained in the latest techniques, including advanced laparoscopic procedures that assist our patients in a faster recovery.​Preadmission ProcessIn order to be medically cleared for surgery, each patient must complete the preadmission process. During this process, all necessary tests ordered by your physician will be conducted in order to medically clear you for your surgical procedure.",
+		"img": "https://i.ibb.co/MfGfPhW/Surgical-Services.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Rehabilitation and Physical Therapy",
+		"short": "From sports injuries to stroke rehabilitation, ​​​our goal is to use a comprehensive approach to returning you to a more active, healthful lifestyle",
+		"details": "The skilled therapists at the Baylor Scott & White Institute for Rehabilitation Outpatient Therapy – Lifebridge offer a wide variety of specialized therapy services for patients suffering from physical conditions related to aging, gender, illness and injury.Our goal is to provide the quality medical treatment and compassionate service needed to improve quality of life.O​ur ServicesAqua therapyFunctional capacity evaluationHand therapyLymphedema services",
+		"img": "https://i.ibb.co/MGNMsG6/Rehabilitation-and-Physical-Therapy.png"
+	},
+	{
+		"id": 7,
+		"name": "Acupuncture and Chinese Medicine",
+		"short": "Acupuncture is a family of safe procedures & Chinese Medicine is the oldest continually practiced",
+		"details": "Chinese Medicine is the oldest continually practiced and documented medical system in the world.  It views health in a holistic way and sees an illness as an imbalance caused by external and external factors influencing mind and body.  The Chinese Medicine practitioner reviews patient’s health history, lifestyle, pulse, tongue, other body vital signs, and identifies patterns of imbalances.  The goal of treatment is to reverse and prevent these imbalances.  Main Chinese Medical therapies are food therapy, acupuncture, herbal medicine, massage, movement therapies, breathing practices, visualization, and meditation.Acupuncture is a family of safe procedures that can be used by adults and children alike.  10-20 stainless steel sterile needles are inserted into acupuncture points and left in the body for up to 25 min to stimulate specific acupuncture points.  Other techniques can be offered during an acupuncture session when indicated.  These may include moxibustion (heat therapy), cupping, guasha, micro bloodletting, electric stimulation (to provide needle vibration), topical creams, liniments, plasters, massage, and acupressure",
+		"img": "https://i.ibb.co/QKk9pmg/Acupuncture-and-Chinese-Medicine.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Plastic Surgery",
+		"short": "Plastic surgery includes everything from body lifts to breast augmentation to liposuction.",
+		"details": "Plastic surgery includes everything from body lifts to breast augmentation to liposuction. These procedures can be nonsurgical or surgical and reshape normal structures of the body to improve appearance. We work with you to help determine the right procedure for you based on your unique needs and circumstances, and your privacy is always a priority.",
+		"img": "https://i.ibb.co/60hYXMY/Plastic-Surgery.jpg"
+	}
+]
